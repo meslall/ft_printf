@@ -5,13 +5,13 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: omeslall <omeslall@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/11/19 16:29:38 by omeslall          #+#    #+#             */
-/*   Updated: 2021/11/21 16:47:34 by omeslall         ###   ########.fr       */
+/*   Created: 2021/11/22 17:29:31 by omeslall          #+#    #+#             */
+/*   Updated: 2021/11/22 17:30:02 by omeslall         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FTPRINTF_H
-# define FTPRINTF_H
+#ifndef FT_PRINTF_H
+# define FT_PRINTF_H
 # include<stdarg.h>
 # include<string.h>
 # include<unistd.h>
